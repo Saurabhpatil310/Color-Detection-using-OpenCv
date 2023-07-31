@@ -1,0 +1,3 @@
+-To run this project simply give command- py colors.py -i "Image_name"
+-Replace Image name with name of image of your choice
+-To exit from result window press Esc.
